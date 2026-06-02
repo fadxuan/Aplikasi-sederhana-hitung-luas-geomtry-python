@@ -8,7 +8,7 @@ st.set_page_config(
 with st.sidebar:
     col1, col2, col3 = st.columns([0.2, 3.6, 0.2])
     with col2:
-        st.image(".png", use_container_width=True)
+        st.image("Gemini_Generated_Image_ykkt82ykkt82ykkt-removebg-preview.png", use_container_width=True)
     st.title("Bangun Datar")
     pilihan = st.selectbox("Pilih Bangun Datar", ["Persegi", "Persegi Panjang", "Segitiga", "Lingkaran", "Jajar Genjang"])
     st.caption("Dibuat Dengan 🫸🏼**Deka Fajar Bayu Anggoro, Kelas X PPLG 1**🫷🏼")
